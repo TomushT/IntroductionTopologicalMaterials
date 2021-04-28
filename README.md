@@ -29,3 +29,11 @@ Practical calculation of Z2 topological invariants in time-reversal-symmetric in
 seminar3.pdf - slides
 
 discretized_berry_phase.pdf - hand-written notes, derivation of the discretized Berry phase
+
+### Seminar 4
+
+28.04.2021
+
+Role of spin-orbit coupling, band inversion, experimental evidence
+
+seminar4.pdf - slides
