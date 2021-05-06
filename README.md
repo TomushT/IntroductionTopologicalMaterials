@@ -37,3 +37,11 @@ discretized_berry_phase.pdf - hand-written notes, derivation of the discretized 
 Role of spin-orbit coupling, band inversion, experimental evidence
 
 seminar4.pdf - slides
+
+### Seminar 5
+
+05.05.2021
+
+(Hybrid) Wannier functions
+
+seminar5.pdf - slides
