@@ -45,3 +45,11 @@ seminar4.pdf - slides
 (Hybrid) Wannier functions
 
 seminar5.pdf - slides
+
+### Seminar 6
+
+12.05.2021
+
+Higher-order topological insulators, topological metals, magnetic skyrmions, Majorana fermions
+
+seminar6.pdf - slides
