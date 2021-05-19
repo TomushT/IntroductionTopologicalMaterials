@@ -53,3 +53,11 @@ seminar5.pdf - slides
 Higher-order topological insulators, topological metals, magnetic skyrmions, Majorana fermions
 
 seminar6.pdf - slides
+
+### Seminar 7
+
+12.05.2021
+
+Applications, conclusions, open questions
+
+seminar7.pdf - slides
